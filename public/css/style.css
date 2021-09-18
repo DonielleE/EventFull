@@ -1,0 +1,33 @@
+.img{
+  height: 100vh;
+  background-image: linear-gradient(rgba(226, 210, 209, 0.87),rgba(163, 145, 110, 0.055)),url(./img/Planning\ vacation\,\ travel\ plan\,\ trip\ vacation\ using\ world\ map\ along\ with\ other\ travel\ accessories.\ Top\ view\,\ flat\ lay.\ Travel\,\ vacation\ concept..jpeg);
+  background-size: cover;
+  background-position: center;
+}
+header, .project:not(:last-child) {
+  border-bottom: 1px solid #ccc;
+}
+.no-button {
+  background: none;
+  border: none;
+  padding: 0;
+  cursor: pointer;
+  color: #1b89bc;
+  text-decoration: none;
+  font-size: larger;
+  font-weight: bold;
+}
+
+.no-button:hover {
+  color: #065b83;
+  text-decoration: underline;
+}
+
+.dollar-amount {
+  color: #056605;
+  font-weight: bold;
+  margin-left: -5px;
+}
+a{
+  text-decoration-style: double;
+}

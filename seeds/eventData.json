@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Woodstock",
+    "description": "A Festival to end all festivals.",
+    "guest_cap": 5000
+  },
+  {
+    "name": "Code Study Group",
+    "description": "A study group of like mined individuals who are aspriing to break into the world of coding!!!! Teamwork makes the dream work!!!",
+    "guest_cap": 15
+  },
+  {
+    "name": "The List",
+    "description": "A list that noone should want to be on!!!!.",
+    "guest_cap": 800000000
+  }
+]
